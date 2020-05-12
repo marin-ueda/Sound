@@ -19,7 +19,7 @@
                                 <rect key="frame" x="107" y="348" width="200" height="200"/>
                                 <state key="normal" image="drumImage"/>
                                 <connections>
-                                    <action selector="touchDownDrumButtom" destination="BYZ-38-t0r" eventType="touchDown" id="c7q-rF-nmL"/>
+                                    <action selector="touchDownDrumButton" destination="BYZ-38-t0r" eventType="touchDown" id="Uda-td-ePe"/>
                                     <action selector="touchUpDrumButton" destination="BYZ-38-t0r" eventType="touchUpInside" id="Tdv-dS-TCI"/>
                                 </connections>
                             </button>

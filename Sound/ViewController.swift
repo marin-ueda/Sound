@@ -23,7 +23,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    @IBAction func touchDownDrumButtom(){
+    @IBAction func touchDownDrumButton(){
         
     drumButton.setImage(UIImage(named: "drumPlayingImage"), for: .normal)
         
